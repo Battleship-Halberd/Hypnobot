@@ -9,7 +9,7 @@ import sys
 import time
 
 BOT_PREFIX = ("?", "!")
-tokenlist = ["NTU2OTg2NjUwMDA2MjU3Njc1.D3Bu-Q.AvhrK-F0Z8NYktMUVvu-R72x5pg", ]
+tokenlist = [I aint giving you one, go get your own token,]
 bot = commands.Bot(command_prefix=BOT_PREFIX)
 bot.remove_command("help")
 client = discord.Client()
