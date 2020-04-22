@@ -1,2 +1,2 @@
 # Hypnobot
-A discord bot for various hypnosis-themed servers
+A discord bot, programmed in python, for various hypnosis-themed discord servers
