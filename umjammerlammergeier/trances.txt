@@ -1,0 +1,1 @@
+{"trance": 3, "mind": 3, "blank": 2, "sleepy": 2, "relaxed": 2, "mindless": 2, "obedience": 2, "pleasing": 2, "entranced": 2, "repeat": 5, "deep": 2, "calm": 3, "obey": 2, "empty": 36, "peaceful": 3, "safe": 2, "pleasure": 2, "drop": 2, "soothed": 2, "pleased": 2, "follow": 0, "tranquil": 0, "less": 0, "secure": 0, "soft": 1, "deeper": 0, "comfy": 0}
