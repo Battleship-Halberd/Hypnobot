@@ -16,8 +16,6 @@ tokenlist = []
 with open("token.txt","rt") as myfile:
     for line in myfile:
         tokenlist.append(line)
-    for element in tokenlist:
-        print(element)
 
 botcommands = ["!","?"]
 hypnoblacklist = []
